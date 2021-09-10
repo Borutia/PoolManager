@@ -25,8 +25,6 @@ P.S. Можно дописывать новые методы, расширять
 
 ## Как подготовить окружение
 ```bash
-git clone git@github.com:YaBackSchool2021/homework3.git
-cd homework3/
 python3.9 -m venv env
 source env/bin/activate
 pip install -Ue ".[dev]"
